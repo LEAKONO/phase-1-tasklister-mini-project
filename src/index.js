@@ -1,3 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // your code here
+  console.log('This page was loaded.')
+
 });
+
+ 
